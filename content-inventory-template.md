@@ -11,7 +11,7 @@
 | C7 | Explanation of camera functions| Information needed on the main functions of a camera | Text | Owner | Missing | Accuracy |
 | C8 | Image explaining Iso | To explain a main function needed for a good image | Image | Online | Risky| licensing |
 | C9 | Image explaining aperture| To explain a main function needed for a good image| Image | Online | Risky| Licensing |
-| C10 | Image explaining exposure | To explain a main function needed for a good image | Image | Online | Risky| Licensing |
+| C10 | Image explaining shutter speed| To explain a main function needed for a good image | Image | Online | Risky| Licensing |
 | C11 | Tips & Tutorials Overview  | Overview of this section | Text | Owner | Missing | Accuracy |
 | C12 | Tips | Tips needed to succeed | Text| Online | Missing | Accuracy|
 | C13 | Tips| Tips needed to succeed | Text | Online | Missing | Accuracy| 
