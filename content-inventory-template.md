@@ -3,17 +3,17 @@
 | ID | Content item | Purpose | Format | Source/owner | Status | Risk or note |
 |---|---|---|---|---|---|---|
 | C1 |  |  | Text / image / table / form / SVG / media / link |  | Ready / missing / duplicate / outdated / risky / optional |  |
-| C2 | Media Asset | Hero Image | Image | Online Image | Missing| Licensing | 
-| C3 | Section | Information Overview | Text | Owner | Missing | Accuracy |
-| C4 | Media Asset | Camera 101 Image | Image | Online Image | Missing | licensing |
-| C5 | Section | Camera 101 Information | Text | Owner | Missing | Accuracy |
-| C6 | Media Asset | Camera 101 Video | Link | Online | Missing | Licensing |
-| C7 | Section | Dial it in Information | Text | Owner | Missing | Accuracy |
-| C8 | Media Asset | Dial it in Image | Image | Online | Missing | licensing |
-| C9 | Media Asset | Dial it in Image | Image | Online | Missing | Licensing |
-| C10 | Media Asset | Dial it in Image | Image | Online | Missing | Licensing |
-| C11 | Section | Tips & Tutorials Overview | Text | Owner | Missing | Accuracy |
-| C12 | Media Asset | Tips | Link | Online | Missing | Licensing |
-| C13 | Media Asset | Tips | Link | Online | Missing | Licensing | 
-| C14 | Media Asset | Tutorials | Link | Online | Missing | Licensing |
-| C15 | Media Asset | Tutorials| Link | Online | Missing | Licensing | 
+| C2 | Main homepage image | First image to grab the attention of visitors| Image | Online Image | Missing| Incomplete | 
+| C3 | Website overview| Initial information to engage visitors| Text | Owner | Missing | Accuracy |
+| C4 | Image of camera parts | To give visitors a visual layout of their camera | Image | Online Image | Risky| licensing |
+| C5 | Breakdown of camera parts | An in depth explanation of a cameras layout| Text | Owner | Missing | Accuracy |
+| C6 | Video explaining camera parts | A video example to further back up the given information | Link | Online | Missing | Licensing |
+| C7 | Explanation of camera functions| Information needed on the main functions of a camera | Text | Owner | Missing | Accuracy |
+| C8 | Image explaining Iso | To explain a main function needed for a good image | Image | Online | Risky| licensing |
+| C9 | Image explaining aperture| To explain a main function needed for a good image| Image | Online | Risky| Licensing |
+| C10 | Image explaining exposure | To explain a main function needed for a good image | Image | Online | Risky| Licensing |
+| C11 | Tips & Tutorials Overview  | Overview of this section | Text | Owner | Missing | Accuracy |
+| C12 | Tips | Tips needed to succeed | Text| Online | Missing | Accuracy|
+| C13 | Tips| Tips needed to succeed | Text | Online | Missing | Accuracy| 
+| C14 | Tutorial Video| Tutorial to further help visitors | Link | Online | Risky| Licensing |
+| C15 | Tutorial Video | Tutorials to further help visitors | Link | Online | Risky | Licensing | 
